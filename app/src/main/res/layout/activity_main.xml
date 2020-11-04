@@ -236,7 +236,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="8dp"
-            android:text="(Glicemia Atual - 100) / 38 = "
+            android:text="(Glicemia Atual - 100) / 30 = "
             app:layout_constraintStart_toStartOf="@+id/guidelineBordaEsquerda"
             app:layout_constraintTop_toBottomOf="@+id/textView15" />
 

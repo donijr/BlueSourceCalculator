@@ -99,7 +99,7 @@ public class MainActivity extends AppCompatActivity {
             resultadoBoulosCorrecao = 0;
         } else {
 
-            resultadoBoulosCorrecao = ((float) glicemiaAtual - 100) / 38;
+            resultadoBoulosCorrecao = ((float) glicemiaAtual - 100) / 30;
         }
 
         textViewInsulinaCorrecao.setText(String.valueOf(resultadoBoulosCorrecao));
